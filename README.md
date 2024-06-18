@@ -12,9 +12,9 @@ NSFW Bot is an open-source discord bot that has nsfw commands running with the n
 ```json
 //config.json
 {
-  "prefix": "your prefix",
-  "token": "your token",
-  "owners": ["OWNER ID"],
+  "prefix": ".",
+  "token": "MTI1MjYzMDIzNzU0NDcxMDIzNg.GJNd7d.ppApqEXBvK8We3D-bLTibVYSrGIhc45ExGsS8w",
+  "owners": ["1135386722289598526"],
   "footer": "NSFW Bot • is.gd/nsfwbot",
 
   "msg": {
